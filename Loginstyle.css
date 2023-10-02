@@ -1,0 +1,26 @@
+body{
+    border:  1px solid black; 
+    width: 900px; 
+    margin: auto;
+     padding: 2%;
+}
+
+body {
+  background-image: repeating-radial-gradient(azure 30%, aqua 80%, yellow 100%);
+  background-repeat:no-repeat;
+  background-color:azure;
+  background-size: cover;
+  position: relative;
+}
+input {
+    border: none;
+    border-bottom: 1px solid black;
+    width: 500px;
+  }
+  table,
+      tr,
+      th,
+      td {
+        border: 1px solid black;
+        border-collapse: collapse;
+      }
